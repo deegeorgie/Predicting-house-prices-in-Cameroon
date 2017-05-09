@@ -5,6 +5,6 @@ The data collection process is still ongoing. The current dataset is the result 
 - [Jumia House Cameroon](http://house.jumia.cm/apartment/rent/?page=)
 - [Koutchoumi Real Estate](http://www.koutchoumi.com/en/main/showResults?page=)
 
-It contains 3060 observations with features like the number of bedrooms and bathrooms, the price etc. The code I used to scrape the data will be provided.
+It contains 3068 observations of 7 features (like the number of bedrooms and bathrooms, the price etc.) This dataset is still relatively modest to build a robust model. The code I used to scrape the data will be provided.
 
 By exploring this dataset, we may find interesting trends.
